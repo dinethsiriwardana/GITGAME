@@ -5,6 +5,7 @@
 1. **Team Setup**
    - Create a team of four people and assign each member a number. 🐶🐱🐼🐻
    - Assign a group leader for repository management and coordination. 🦁
+   - *No friends or a group?😥 Not to worry Just handle everything on your own.🥳 !!! Yes you can !!!*😎
 
 2. **Repository Creation** 💼
    - Group leader needs log in to GitHub.
