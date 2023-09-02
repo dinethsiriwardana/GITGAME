@@ -45,7 +45,8 @@
 
 9. **Check it**
 
-   - Upon completion, compare this image with the website's content.
+   - Is it over? Download the Final WebSite 1.0 from Releases
+   - Compare this image with the website's content.
   
      <img width="1680" alt="image" src="https://github.com/dinethsiriwardana/GITGAME/assets/91774218/1d13e601-7e90-4529-8a95-121fbbdfc47e">
 
